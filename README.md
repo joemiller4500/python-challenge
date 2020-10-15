@@ -1,2 +1,2 @@
 # python-challenge
-Week 3 Homework
+Python code from early in my experience with the language.
